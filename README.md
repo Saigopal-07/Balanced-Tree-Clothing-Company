@@ -3,6 +3,7 @@ Welcome to the Balanced Tree Clothing Company's SQL case study! For this project
 
                                              Datasets
 There are 4 datasets available for this case study. 
+
 balanced_tree.product_details includes all information about the entire range that Balanced Clothing sells in their store.
 
 balanced_tree.sales contains product level information for all the transactions made for Balanced Tree including quantity, price, a percentage discount, member status, a transaction ID, and also the transaction timestamp.

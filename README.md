@@ -2,7 +2,14 @@
 Welcome to the Balanced Tree Clothing Company's SQL case study! For this project, I worked with data from Balanced Tree Clothing Company to analyze their sales performance and generate a basic financial report to share with the wider business. Each question can be answered using a single query, but as you are writing the SQL to solve each individual problem, keep in mind how you would generate all of these metrics in a single SQL script which the Balanced Tree team can run each month.
 
                                              Datasets
-There are 4 datasets available for this case study. However, to answer the regular questions, we will only utilize 2 main tables. The additional 2 tables are used for the bonus challenge question.
+There are 4 datasets available for this case study. 
+balanced_tree.product_details includes all information about the entire range that Balanced Clothing sells in their store.
+
+balanced_tree.sales contains product level information for all the transactions made for Balanced Tree including quantity, price, a percentage discount, member status, a transaction ID, and also the transaction timestamp.
+
+These tables are used only for the bonus question where we will use them to recreate the balanced_tree.product_details table.
+
+Balanced_tree.product_hierarchy
 
                                              Key Business Questions
 Below are the key business questions and metrics that the Balanced Tree team requires for their monthly reports. Each question can be answered using a single query. As we write SQL to solve each problem, we'll consider how to generate all these metrics in a single SQL script, which the Balanced Tree team can run each month.

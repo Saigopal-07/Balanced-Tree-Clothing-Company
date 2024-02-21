@@ -1,4 +1,4 @@
-	Balanced Tree Clothing Company Sales Analysis
+#					Balanced Tree Clothing Company Sales Analysis
 Welcome to the Balanced Tree Clothing Company's SQL Project! For this project, I worked with data from Balanced Tree Clothing Company to analyze their sales performance and generate a basic financial report to share with the wider business. Each question was answered using a single query and generated all of these metrics in a single SQL script which the Balanced Tree team can run each month.
 
 	Datasets
